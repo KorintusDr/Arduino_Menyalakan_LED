@@ -1,6 +1,6 @@
 # Project Arduino_Menyalakan_LED
 
-Project ini bertujuan untuk mengendalikan LED menggunakan Arduino Uno. Dalam proyek ini, Anda akan mempelajari cara menghubungkan LED ke papan breadboard, serta bagaimana menggunakan Arduino untuk menyalakan dan mematikan LED.
+Project ini bertujuan untuk mengendalikan LED menggunakan Arduino Uno. Dalam proyek ini, Saya mempelajari cara menghubungkan LED ke papan breadboard, serta bagaimana menggunakan Arduino untuk menyalakan dan mematikan LED.
 
 ## Daftar Alat dan Bahan
 
